@@ -1,0 +1,10 @@
+flask
+smolagents
+anthropic
+sentence-transformers
+huggingface_hub
+scipy
+numpy
+pandas
+matplotlib
+seaborn
